@@ -123,14 +123,13 @@ nav.top-nav .dropdown-menu li:hover {
     color: black;
 }
 
-#inktank {
+#bookclub {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    height: 65%;
-    padding-top: 8px;
-    padding-bottom: 9px;
+    width: 32%;
+    height: 70%;
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 
@@ -169,4 +168,8 @@ nav.top-nav .dropdown-menu li:hover {
     margin-top: 100px;
     text-align: center;
     color: darkslategrey;
+}
+
+#currentpage {
+    text-decoration: underline;
 }
